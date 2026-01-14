@@ -54,14 +54,6 @@ Sethu Institute of Technology
 
 ---
 
-## 📊 GitHub Stats
-Replace YOUR_GITHUB_USERNAME in the links below:
-
-https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME  ](https://github.com/HarishKrishnaj)
-https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME ](https://github.com/HarishKrishnaj) 
-
----
-
 ## 💼 Open To
 - AI Engineer Intern
 - Machine Learning Intern
