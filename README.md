@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/24604936/README.md)
 # harishkrishnaj-official[README_AI_Engineer_Harish_Krishna.md](https://github.com/user-attachments/files/24604670/README_AI_Engineer_Harish_Krishna.md)
 # 👋 Hi, I’m Harish Krishna
 ### 🚀 B.Tech Artificial Intelligence & Data Science (Pre-final Year) | Aspiring AI Engineer  
@@ -26,6 +27,8 @@ Sethu Institute of Technology
 ---
 
 ## 🚀 Featured Projects
+
+
 
 ### 🔥 AI Fire Identifier + LLM-Guided Evacuation System
 - Real-time fire & smoke detection using AI
@@ -62,6 +65,6 @@ Sethu Institute of Technology
 ---
 
 ## 🔗 Connect
-LinkedIn: [[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harish-krishna-j-20365a235/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-krishna-j-20365a235/)
 
 ---
